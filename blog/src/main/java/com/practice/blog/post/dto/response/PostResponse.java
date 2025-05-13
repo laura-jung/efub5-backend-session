@@ -17,4 +17,6 @@ public record PostResponse(Long postId, Long accountId, String nickName, String 
                 post.getViewCount()
         );
     }
+
 }
+

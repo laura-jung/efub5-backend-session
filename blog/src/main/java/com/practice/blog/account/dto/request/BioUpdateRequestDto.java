@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 
 // 프로필 업데이트 요청 DTO
 
+
 @Getter
 @NoArgsConstructor
 public class BioUpdateRequestDto {
